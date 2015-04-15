@@ -1,5 +1,5 @@
 <?php
-//blog script. this blog script is meant to serve as the index (home) page to a blog on a Linux PHP-powered web server. In an extremely simple sense I built it to replace my self-hosted WordPress installation. 
+//2014 blog script. this blog script is meant to serve as the index (home) page to a blog on a Linux PHP-powered web server. In an extremely simple sense I built it to replace my self-hosted WordPress installation. 
 //Instructions: 1. write blog posts as .html files, one .html file per blog post. 2. In the same directory as the blog posts, put this .php file. 3. This .php file scans the directory for .html files and prints out on the page a hyperlink to each. 4. This script alphabetizes the list of hyperlinks, therefore if one makes sure to name each .html file blog post starting with "YYYY-MM-DD...", then this script by nature of alphabetizing them, puts them in date order.
 //**********
 // start redirect an old wordpress-powered blog post url to point to its new location.
