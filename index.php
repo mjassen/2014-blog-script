@@ -20,6 +20,7 @@
 $diry = "./";
 
 //find .html files
+// $docs = array_merge((glob($diry . "*.txt")), (glob($diry . "*.html")));
 $docs = glob($diry . "*.html");
 
 // Sorts files high to low
